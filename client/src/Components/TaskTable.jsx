@@ -59,7 +59,7 @@ const TaskTable = () => {
       <div className="relative overflow-x-auto p-4 border min-h-[80vh] md:p-8">
         <div className=" flex flex-col">
           <p className="text-md font-medium">Filter Tasks</p>
-          <div className=" flex flex-column sm:flex-row flex-wrap space-y-4 sm:space-y-0 items-center justify-between pb-4">
+          <div className=" flex flex-column sm:flex-row flex-wrap items-center justify-between pb-4">
             <div className="relative group">
               <button
                 id="dropdownRadioButton"
